@@ -1,2 +1,2 @@
 # fixthe-world
-Learing to code the world
+Learn to code the world
